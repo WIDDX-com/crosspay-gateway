@@ -6,7 +6,7 @@
  * @author     WIDDX
  * @copyright  Copyright (c) 2024 WIDDX
  * @license    https://opensource.org/licenses/MIT MIT License
- * @version    1.3.4
+ * @version    1.0.0
  */
 
 if (!defined("WHMCS")) {
